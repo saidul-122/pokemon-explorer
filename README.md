@@ -1,6 +1,3 @@
-## Demo :
-https://rad-medovik-f81128.netlify.app/
-
 # 🐉 PokéPal Explorer
 
 ![PokéPal Explorer](https://raw.githubusercontent.com/pokeapi/sprites/master/sprites/pokemon/other/official-artwork/25.png)
@@ -54,7 +51,7 @@ npm run dev
 
 ## Live Demo
 
-Experience PokéPal Explorer live at: [https://lovable.dev/projects/98e9cad5-6f9d-4ec9-bf0f-415465bc749f](https://lovable.dev/projects/98e9cad5-6f9d-4ec9-bf0f-415465bc749f)
+Experience PokéPal Explorer live at: https://rad-medovik-f81128.netlify.app/
 
 ## Screenshots
 
