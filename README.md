@@ -56,7 +56,11 @@ Experience PokéPal Explorer live at: [https://lovable.dev/projects/98e9cad5-6f9
 
 ## Screenshots
 
-![PokéPal Explorer Screenshot](https://placeholder.com/screenshot1)
+![PokéPal Explorer Screenshot]
+![image](https://github.com/user-attachments/assets/89c784a9-71ea-487c-9994-defd984b4902)
+![image](https://github.com/user-attachments/assets/61e4b147-96e1-45f0-9d7e-ce2831aecfc2)
+![image](https://github.com/user-attachments/assets/b9fa30c4-eaad-431d-a58a-b0b83e484f24)
+![image](https://github.com/user-attachments/assets/2f23bf89-10d2-4034-930b-3ec2ba74838c)
 
 ## Future Enhancements
 
