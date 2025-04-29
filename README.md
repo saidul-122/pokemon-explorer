@@ -82,4 +82,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-Created with 💖 using [Lovable](https://lovable.dev)
+Created by 💖 Saidul
